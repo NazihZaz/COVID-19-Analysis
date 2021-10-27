@@ -1,5 +1,5 @@
 # Google API Key
-g_key = "ENTER YOUR KEY HERE!"
+g_key = "AIzaSyDWLYMUp0BUWGaxYeV3HZn7whjnQKP-4yg"
 
 # COVID API Key
-api_key="ENTER YOUR KEY HERE!"
+api_key="9334a4b98df34add8b60680797863266"
