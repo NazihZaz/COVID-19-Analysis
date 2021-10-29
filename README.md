@@ -11,35 +11,37 @@ Overview of our process to find these answers:
 First, we utilized the COVID 19 ACT NOW API to pull in COVID data in .json format. 
 Then we created a For Loop to aggregate the data we wanted into lists, and then created our DataFrame. 
 After putting our data into our DataFrame, we did some cleaning of the data to drop rows with missing data, and we also created some columns for additional calculations. 
-Retrieved Latitude and Longitude data for states, and merged to our DataFrame. 
+[Retrieved Latitude and Longitude data for states, and merged to our DataFrame.](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/tree/main/Data)
 Dropped any rows with missing values to create a clean DataFrame to work with. 
 Utilized our DataFrame to analyze various metrics and answer the questions we had. 
 MatPlotLib and Google Maps’ Heat Maps were created to analyze our data.
 Png files of our Data Visualizations, and full Panda's script for analysis are included in this Repository. 
+### [Click Here to Access the Jupyter Notebook](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/covid_data.ipynb)
+
 
 ## Note: It is important to note that the API calls were performed on 10/28/2021.
 
 ## Outputs generated:
 
-[Output 1: Created a DataFrame that contains our Data]:
+![Output 1: Created a DataFrame that contains our Data](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/DataFrame%20Screenshot.png)
 
-[Output 2: Gmaps Heatmap of Death Toll in the US]:
+![Output 2: Gmaps Heatmap of Death Toll in the US](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Heatmap%20Screenshot.png)
 
-[Output 3: Bar graph of Completed Vaccination Ratio per State]:
+![Output 3: Bar graph of Completed Vaccination Ratio per State](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Completed_Vaccinations_Ratio_per_State.png)
 
-[Output 4: Scatter plot using Linear Regression of Postive Test T compared to Population]:
+![Output 4: Scatter plot using Linear Regression of Postive Test compared to Population](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Positive_Tests_vs_Population.png)
 
-[Output 5: Scatter plot using Linear Regression of Death Toll compared to Population]:
+![Output 5: Scatter plot using Linear Regression of Death Toll compared to Population](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Death_Toll_vs_Population.png)
 
-[Output 6: Scatter plot using Linear Regression of Death Toll compared to COVID Hospital Bed Usage]:
+![Output 6: Scatter plot using Linear Regression of Death Toll compared to COVID Hospital Bed Usage](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Death_Toll_vs_Hospital_Beds_COVID_Usage.png)
 
-[Output 7: Scatter plot using Linear Regression of ICU Bed COVID Usage compared to Hospital Bed COVID Usage]:
+![Output 7: Scatter plot using Linear Regression of ICU Bed COVID Usage compared to Hospital Bed COVID Usage](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/ICU_Beds_COVID_Usage_vs_Hospital_Beds_COVID_Usage.png)
 
-[Output 8: Scatter plot using Linear Regression of ICU Bed COVID Usage vs Completed Vaccination Rate]:
+![Output 8: Scatter plot using Linear Regression of ICU Bed COVID Usage vs Completed Vaccination Rate](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/ICU_Beds_COVID_Usage_vs_Completed_Vaccinations_Ratio.png)
 
-[Output 9: Scatter plot using Linear Regression of Postive Case Ratio compared to Completed Vaccination Rate]:
+![Output 9: Scatter plot using Linear Regression of Postive Case Ratio compared to Completed Vaccination Rate](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Positive_Case_Ratio_vs_Completed_Vaccinations_Ratio.png)
 
-[Output 10: Scatter plot using Linear Regression of Case Density compared to Completed Vaccination Rate]:
+![Output 10: Scatter plot using Linear Regression of Case Density compared to Completed Vaccination Rate](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Case_Density_vs_Completed_Vaccinations_Ratio.png)
 
 
 
