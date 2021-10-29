@@ -2,7 +2,7 @@
 This repository is for the Project #1 of the GA Tech Data Bootcamp
 
 The purpose of this project is to analyze certain metrics related to the COVID 19 pandemic such as the most affected states, the rate of positive cases per state or the relationship between COVID ICU bed Usage and COVID hospital bed usage. The questions we attempted to answer were: 
-1. What US states were the most affected by the COVID 19 pandemic and what was their answer? 
+1. What US states were the most affected by the COVID 19 pandemic and what was their answer to combat the pandemic? 
 2. Are the states with larger population the most impacted by COVID 19? 
 3. How are the medical services affected by COVID19?
 4. Is Vaccination the right answer to this pandemic? 
@@ -23,9 +23,9 @@ Png files of our Data Visualizations, and full Panda's script for analysis are i
 
 ## Outputs generated:
 
-![Output 1: Created a DataFrame that contains our Data](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/DataFrame%20Screenshot.png)
+![Output 1: Created a DataFrame that contains our Data](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/DataFrame%20Screenshot.PNG)
 
-![Output 2: Gmaps Heatmap of Death Toll in the US](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Heatmap%20Screenshot.png)
+![Output 2: Gmaps Heatmap of Death Toll in the US](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Heatmap%20Screenshot.PNG)
 
 ![Output 3: Bar graph of Completed Vaccination Ratio per State](https://github.com/NazihZaz/Project_1_COVID19_Team_ABC/blob/main/Images/Completed_Vaccinations_Ratio_per_State.png)
 
