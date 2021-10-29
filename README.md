@@ -17,8 +17,9 @@ Utilized our DataFrame to analyze various metrics and answer the questions we ha
 MatPlotLib and Google Maps’ Heat Maps were created to analyze our data.
 Png files of our Data Visualizations, and full Panda's script for analysis are included in this Repository. 
 
-##Note: It is important to note that the API calls were performed on 10/28/2021.
-##Outputs generated:
+## Note: It is important to note that the API calls were performed on 10/28/2021.
+
+## Outputs generated:
 
 [Output 1: Created a DataFrame that contains our Data]:
 
@@ -42,7 +43,7 @@ Png files of our Data Visualizations, and full Panda's script for analysis are i
 
 
 
-##Conclusions: 
+## Conclusions: 
 1. States most affected by COVID from a volume standpoint were some of the largest states by population such as California, New York, Texas. 
 2. There is a strong relationship between overall Hospital Bed COVID Usage and their escalation to the ICU. Ultimately, cases leading to an ICU admissions have a higher chance of leading to death. 
 3. Higher Vaccination ratios led to a lower Positive Case Ratio and a lower Case Density overall. 
